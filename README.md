@@ -1,4 +1,4 @@
 - 👋🙎‍♂️ Hi, I’m @Shauryasin12.
-- 👀🦋 I’m interested in learning Python,HTML,MySQL.
-- 🌱💻 I’m currently learning Python.
+- 👀🦋 I’m interested in software game development.
+- 🌱💻 I’m currently working on a new game project called "Genso No Tatakae".
 - 📫💬 How to reach me DM me in discord [shauryasin]
